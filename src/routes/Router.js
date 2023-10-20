@@ -7,13 +7,13 @@ import Enroll from "../pages/Enroll/Enroll";
 
 
 
+
 export default function Router() {
     return (
         <Routes>
-            <Route path="/" element={<App />}>
-                <Route path="/" element={<Home />} />
-                <Route path="/enroll" element={<Enroll />} />
-            </Route>
+            <Route path="/" element={<App />} />
+            <Route path="/home" element={<Home />} />
+            <Route path="/enroll" element={<Enroll />} />
             <Route path="/*" element={<PageNotFound />} />
         </Routes>
     );
