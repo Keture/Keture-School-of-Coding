@@ -1,6 +1,8 @@
 
 import React, { useState } from "react";
-import { Header, CourseDetails, Instructor, Syllabus, Footer, CourseIntro } from "../components";
+import { Header, Instructor, Syllabus, Footer } from "../../components";
+import CourseIntro from "./CourseIntro";
+import CourseDetails from "./CourseDetails";
 
 function Home() {
     const [open, setOpen] = useState(1);
