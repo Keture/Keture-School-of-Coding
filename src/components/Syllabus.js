@@ -134,7 +134,7 @@ const Syllabus = () => {
             ]
         },
         {
-            title: "Session 18: Pointers",
+            title: "Session 18: Pointers & Functions",
             body: [
                 "• Pointers & Functions",
                 "• Memory Allocation"
