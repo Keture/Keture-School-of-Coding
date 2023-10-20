@@ -8,10 +8,7 @@ const CourseIntro = () => (
         <div className="col-span-3 px-4">
             <div className="text-4xl font-black">Programming Basics</div>
             <div className="mt-2 text-sm text-justify">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy text
-                ever since the 1500s, when an unknown printer took a galley of
-                type and scrambled it to make a type specimen book.
+                Programming isn't just about writing code. It's about solving problems and creating efficient solutions. This course is designed for beginners and will cover the foundational topics that every programmer should know. By the end of this course, students will have a solid understanding of programming basics and will be ready to delve into more advanced topics or specific programming languages. We use C as our programming language for this course, as C is often considered the "mother of languages" and it is a good place to start for beginners.
             </div>
         </div>
     </div>
