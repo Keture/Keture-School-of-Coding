@@ -179,7 +179,7 @@ const Syllabus = () => {
     return (
         <div className="my-20 px-4 lg:px-0">
             <div className="text-2xl font-black">Syllabus</div>
-            <div>11 lessons • 12 projects • 8 quizzes</div>
+            <div>24 Sessions • 5 projects • 0 quizzes</div>
             <hr className="h-[.05em] mb-8 mt-4 bg-slate-200 border-0 dark:bg-slate-700" />
 
             {accordionContent.map((item, index) => (
