@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { Header, Instructor, Footer } from "../../components";
 import CourseIntro from "./CourseIntro";
 import CourseDetails from "./CourseDetails";
-import Syllabus from "./Syllabus";
+import Syllabus from "./Syllabus/Syllabus";
 
 function Home() {
     const [open, setOpen] = useState(1);
