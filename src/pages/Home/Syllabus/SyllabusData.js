@@ -2,12 +2,12 @@ export const accordionContent = [
     {
         title: "Session 1: Introduction to Programming",
         body: [
-            "• How does a computer work?",
-            "• What is Programming?",
-            "• Programming Lang Types",
-            "• Approach to a problem.",
+            "• Understanding Computer Operations",
+            "• The Essence of Programming",
+            "• Varieties of Programming Languages",
+            "• Strategies for Problem-Solving.",
             "• Introduction to Control Flow.",
-            "• How do we approach a real-world problem using Flow Chart/Pusedo Code?"
+            "• Tackling Real-World Issues with Flow Charts and Pseudo Code."
         ]
     },
     {
@@ -60,7 +60,7 @@ export const accordionContent = [
     {
         title: "Session 8: Functions - I",
         body: [
-            "• Programming Functions",
+            "• Standard Functions",
             "• User-defined Functions",
             "• Function Types"
         ]
@@ -156,11 +156,15 @@ export const accordionContent = [
     },
     {
         title: "Session 23: File Handling",
-        body: []
+        body: [
+            "• Files Input/Output"
+        ]
     },
     {
         title: "Session 24: Project - V",
-        body: []
+        body: [
+            "• Practicals & Project"
+        ]
     }
 ];
 
