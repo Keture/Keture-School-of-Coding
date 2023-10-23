@@ -10,7 +10,7 @@ const PageNotFound = () => {
                     </h1>
                     <h1>
                         <span className="container">
-                            <span>Go back to <a href="https://keture.com" className="text-transparent bg-clip-text bg-gradient-to-br from-orange-400 to-red-600 over">keture.com</a></span>
+                            <span>Go back to <a href="https://soc.keture.com" className="text-transparent bg-clip-text bg-gradient-to-br from-orange-400 to-red-600 over">soc.keture.com</a></span>
                         </span>
                     </h1>
                 </div>

@@ -4,6 +4,7 @@ import { Header, Instructor, Footer } from "../../components";
 import CourseIntro from "./CourseIntro";
 import CourseDetails from "./CourseDetails";
 import Syllabus from "./Syllabus/Syllabus";
+import SkillList from "./SkillList";
 
 function Home() {
     const [open, setOpen] = useState(1);
@@ -19,6 +20,7 @@ function Home() {
                     <Instructor />
                 </div>
                 <Syllabus open={open} handleOpen={handleOpen} />
+                <SkillList />
             </div>
             <Footer />
         </>
