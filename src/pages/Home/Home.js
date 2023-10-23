@@ -12,7 +12,7 @@ function Home() {
 
     return (
         <>
-            <div className="container max-w-3xl mx-auto mt-16 text-slate-700">
+            <div className="container max-w-3xl mx-auto mt-5 md:mt-16 text-slate-700">
                 <Header />
                 <CourseIntro />
                 <div className="md:grid grid-cols-3 mt-10 gap-4 md:px-4 lg:px-0">

@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 
 const CourseDetails = () => (
-    <div className="bg-slate-200 p-4 m-4 md:m-0">
+    <div className="bg-slate-200 p-4 mx-4 my-10 md:m-0">
         <div>
             <span className="font-semibold">Level</span> : Beginner
         </div>

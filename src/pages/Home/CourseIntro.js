@@ -1,7 +1,7 @@
 import React from 'react';
 
 const CourseIntro = () => (
-    <div className="md:grid grid-cols-4 mt-10">
+    <div className="md:grid grid-cols-4">
         <div className="flex align-middle justify-center">
             <span className="material-symbols-sharp text-9xl">terminal</span>
         </div>

@@ -6,7 +6,7 @@ const Instructor = () => (
     <div className="col-span-2 grid grid-cols-4 p-4 md:p-0">
         <div className="col-span-3 flex justify-center items-center">
             <div>
-                <div className="text-xl">Meet the Instructor</div>
+                <div className="text-xl">Course Instructor</div>
                 <div className="text-xl font-black">
                     Rajamiththiran Varatharajan
                 </div>
@@ -14,7 +14,7 @@ const Instructor = () => (
                     BSc (Honours) in Software Engineering
                 </div>
                 <div className="text-sm">Universtiy of Kelaniya Srilanka</div>
-                <div className="text-md">rajamithiran.keture.com@gmai.com</div>
+                <a className="text-md" href="mailto:rajamithiran.keture.com@gmail.com">rajamithiran.keture.com@gmail.com</a>
             </div>
         </div>
         <div>
