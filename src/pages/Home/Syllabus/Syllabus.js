@@ -14,8 +14,8 @@ const Syllabus = () => {
   return (
     <div className="my-10 p-4 bg-slate-50">
       <div>
-        <span className="text-2xl font-black">Syllabus</span>
-        <span className="mx-2">24 Sessions • 5 projects</span>
+        <div className="text-2xl font-black">Syllabus</div>
+        <div className="mt-2">24 Sessions • 5 projects</div>
       </div>
       <hr className="h-[.05em] mb-8 mt-4 bg-slate-200 border-0 dark:bg-slate-700" />
 
